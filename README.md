@@ -16,10 +16,14 @@ ASP Peg Solitaire solving agent with multiple dynamically sized boards.
 > `clingo --models 0 peg_solitare.lp pinwheel_board.lp`
 
 Solving...
+
 Answer: 1
+
 moves(cell(3,2),cell(2,2),cell(1,2),0) moves(cell(2,4),cell(2,3),cell(2,2),1) moves(cell(1,2),cell(2,2),cell(3,2),2) moves(cell(4,3),cell(3,3),cell(2,3),3) moves(cell(2,3),cell(3,3),cell(4,3),5) moves(cell(3,1),cell(3,2),cell(3,3),4)
+
 Answer: 2
 moves(cell(3,2),cell(2,2),cell(1,2),0) moves(cell(2,4),cell(2,3),cell(2,2),1) moves(cell(1,2),cell(2,2),cell(3,2),3) moves(cell(4,3),cell(3,3),cell(2,3),2) moves(cell(2,3),cell(3,3),cell(4,3),5) moves(cell(3,1),cell(3,2),cell(3,3),4)
+
 SATISFIABLE
 
 Models       : 2
