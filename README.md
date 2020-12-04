@@ -1,5 +1,5 @@
 # ASP-Program-to-Solve-Peg-Solitaire-Problems
-ASP Peg Solitaire solving agent with multiple dynamically sized boards.
+ASP Peg Solitaire solving agent with multiple dynamically sized boards. See peg_solitaire_readme.pdf for more information.
 ### Boards:
 - english_board.lp
 - european_board.lp
