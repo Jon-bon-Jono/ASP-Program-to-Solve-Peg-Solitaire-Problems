@@ -1,3 +1,4 @@
+%By Jonathan Williams, written November 2020
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %GERMAN BOARD
 %the size of this board is variable
