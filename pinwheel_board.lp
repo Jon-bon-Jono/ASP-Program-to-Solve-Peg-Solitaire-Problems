@@ -1,3 +1,4 @@
+%By Jonathan Williams, written November 2020
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %PINWHEEL 8 HOLES
 board(pinwheel).
