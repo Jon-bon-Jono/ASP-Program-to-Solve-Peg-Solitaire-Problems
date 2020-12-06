@@ -1,4 +1,4 @@
-%By Jonathan Williams (z5162987)
+%By Jonathan Williams, written November 2020
 style(simple_3hole).
 style(simple_4hole).
 style(simple_5hole).
