@@ -1,3 +1,4 @@
+%By Jonathan Williams, written November 2020
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %ENGLISH BOARD
 board(english).
