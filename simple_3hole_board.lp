@@ -1,4 +1,4 @@
-
+%By Jonathan Williams, written November 2020
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %SIMPLE MINIMUM 3 HOLES
 board(simple_3hole).
