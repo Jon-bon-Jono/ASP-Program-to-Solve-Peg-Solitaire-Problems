@@ -1,3 +1,4 @@
+%By Jonathan Williams, written November 2020
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %SIMPLE 4 HOLES
 board(simple_4hole).
